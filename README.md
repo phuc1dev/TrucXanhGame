@@ -8,9 +8,9 @@ Trúc Xanh là một trò chơi trí tuệ cổ điển được tái tạo tron
 
 ## Cách chơi
 
-- Kết hợp 2 viên gạch cùng màu để loại bỏ chúng.
-- Cố gắng loại bỏ toàn bộ các viên gạch khỏi bảng trước khi hết thời gian.
-- Sử dụng kỹ năng quan sát và chiến lược để giành chiến thắng.
+- Tối đa 3 người người kết nối đến server.
+- Người chơi cần sử dụng khả năng quan sát và trí nhớ để kết hợp 2 ô hình giống nhau để nhận được điểm.
+- Khi tất cả các ô hình đã được lật, người đạt được điểm cao nhất sẽ giành chiến thắng.
 
 ## Cài đặt và Chạy
 
@@ -20,7 +20,7 @@ Trúc Xanh là một trò chơi trí tuệ cổ điển được tái tạo tron
 
 ## Yêu cầu
 
-- Visual Studio (hoặc môi trường phát triển C# tương tự).
+- Visual Studio 2019.
 
 ## Mẫu Hình Ảnh
 
