@@ -1,6 +1,6 @@
 # Trò chơi Trúc Xanh
 
-![Trúc Xanh](truc_xanh_screenshot.png)
+![Trúc Xanh](https://i.imgur.com/FKkDFJq.png)
 
 ## Giới thiệu
 
@@ -24,4 +24,4 @@ Trúc Xanh là một trò chơi trí tuệ cổ điển được tái tạo tron
 
 ## Mẫu Hình Ảnh
 
-![Trúc Xanh](truc_xanh_gameplay.png)
+![Trúc Xanh](https://i.imgur.com/kechHJf.png)
