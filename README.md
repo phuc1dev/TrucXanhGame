@@ -8,7 +8,7 @@ Trúc Xanh là một trò chơi trí tuệ cổ điển được tái tạo tron
 
 ## Cách chơi
 
-- Tối đa 3 người người kết nối đến server.
+- Tối đa 3 người chơi kết nối đến server.
 - Người chơi cần sử dụng khả năng quan sát và trí nhớ để kết hợp 2 ô hình giống nhau để nhận được điểm.
 - Khi tất cả các ô hình đã được lật, người đạt được điểm cao nhất sẽ giành chiến thắng.
 
